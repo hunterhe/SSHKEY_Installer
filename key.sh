@@ -1,4 +1,4 @@
-#/bin/sh
+#/bin/csh
 echo '============================
       SSH Key Installer
 	      V1.0 Alpha
